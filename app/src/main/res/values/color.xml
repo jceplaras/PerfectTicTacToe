@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="background" type="color">#0099cc</item>
+    <item name="stroke" type="color">#c1c1c1</item>
+
+    <item name="white" type="color">#ffffff</item>
+    <item name="black" type="color">#000000</item>
+    <item name="white_dirty" type="color">#f8f8f8</item>
+    <item name="blue_idle" type="color">#33b5e5</item>
+    <item name="blue_active" type="color">#007aa3</item>
+    <item name="green" type="color">#669900</item>
+    <item name="green_active" type="color">#99cc00</item>
+    <item name="green_dark" type="color">#557f00</item>
+
+    <item name="win" type="color">#27ae60</item>
+    <item name="draw" type="color">#7f8c8d</item>
+</resources>
